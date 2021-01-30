@@ -1,6 +1,6 @@
 # Resume
 
-LateX Code for my Resume
+LaTeX Code for my Resume
 
 Used XeLaTeX for compiling
 
