@@ -4,7 +4,7 @@ LaTeX Code for my Resume
 
 Used XeLaTeX for compiling
 
-Latest Draft [here](Nov2021/Resume.pdf)
+Latest Draft [here](Feb2022/Resume.pdf)
 
 ## LICENSE
 
